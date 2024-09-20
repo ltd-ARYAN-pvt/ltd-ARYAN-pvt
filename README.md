@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ltd-ARYAN-pvt.ltd-ARYAN-pvt" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aryan+Pandey!;+aka+Ren+🤠;" />
@@ -11,7 +11,7 @@
  
  🌱 I’m currently learning **Pytorch, FastAPI, Docker, AWS**
 
-💬 Ask me about **Tensorflow, ML, python, database... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Tensorflow, ML, python, database... or anything [here](https://github.com/ltd-ARYAN-pvt/ltd-ARYAN-pvt/issues)**
 
 ⚡ Fun fact **Did you know that Machine learning is not going to destroy Humanity?**
 
