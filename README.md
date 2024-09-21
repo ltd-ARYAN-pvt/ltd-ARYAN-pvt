@@ -25,9 +25,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://github.com/ltd-ARYAN-pvt" target="_blank">
-     <img src="https://img.shields.io/badge/Github-333333?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+     <img src="https://img.shields.io/badge/Github-333333?style=for-the-badge&logo=github&logoColor=white" target="_blank" /></a>
   <a href="https://www.instagram.com/itz_ren404?igsh=cnBvNHphYzI3MmNv" target="_blank">
      <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://discord.gg/DhdTuFxH" target="_blank">
+     <img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
   </a>
 </div>
  <hr/>
@@ -35,7 +38,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,anaconda,ai,bootstrap,html,css,vscode,github,kafka,git" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,anaconda,aws,bootstrap,html,css,vscode,github,kafka,git" />
     <img src="https://skillicons.dev/icons?i=python,javascript,mongodb,c,java,redis,mysql,flask,django,fastapi,opencv,r" /><br>
 </div>
 
