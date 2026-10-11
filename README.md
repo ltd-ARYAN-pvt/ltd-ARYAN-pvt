@@ -7,11 +7,11 @@
 
 <div align="center">
  
- 🔭 I’m currently pursuing **Artificial intelligence and Data Science** from **Ramaiah Institute of technology**
+ 🔭 I’m currently pursuing **Data Science and Artificial Intelligence** from **Indian Institute of Technology BHilai**
  
- 🌱 I’m currently learning **Pytorch, FastAPI, Docker, AWS**
+ 🌱 I’m currently learning **Agentic AI**
 
-💬 Ask me about **Tensorflow, ML, python, database... or anything [here](https://github.com/ltd-ARYAN-pvt/ltd-ARYAN-pvt/issues)**
+💬 Ask me about **AI, Python, Database... or anything [here](https://github.com/ltd-ARYAN-pvt/ltd-ARYAN-pvt/issues)**
 
 ⚡ Fun fact **Did you know that Machine learning is not going to destroy Humanity?**
 
